@@ -1,6 +1,7 @@
 # effects-playground
 
-Playing around with ways to isolate side effects
+A discussion on isolating side effects, based on a presentation I gave in
+October 2020.
 
 ## Examples
 
